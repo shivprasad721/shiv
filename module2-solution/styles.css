@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    color: brown;
+    /* align-items: centers */s
+}
+
+h3{
+    text-align: right;
+    background-color:red;
+    border:2px solid black;
+    padding-right: 10px
+
+}
+p{
+    
+    background-color: cadetblue;
+    border:2px solid black;
+    padding: 2px;
+}
+
+
